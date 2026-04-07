@@ -35,11 +35,14 @@ sift/
 ├── course1/          # 人生の棚卸し（Part 101-105）
 ├── course2/          # 手放しの設計（Part 201-205）
 ├── course3/          # 目的の言語化（Part 301-305）
-├── course4/          # アンラーン + AI Fluency（Part 401-405）
-└── course5/          # ハーネスエンジニアリング基礎（Part 501-505）
+├── course4/          # アンラーン — 調和と創発へ（Part 401-405）
+├── course5/          # AI Fluency — AIを扱う力（Part 501-505）
+├── course6/          # AIと共に整える（Part 601-605）
+├── course7/          # Workshopへの接続（Part 701-703）
+└── context/          # 5層文脈ファイル（SIFT完了時に埋める）
 ```
 
-各 Course に 5 Part、各 Part に 3 Phase = 合計 75 ファイル
+C1-C6: 各5 Part × 3 Phase、C7: 3 Part × 3 Phase = 合計 99 ファイル
 
 ## リンク
 
