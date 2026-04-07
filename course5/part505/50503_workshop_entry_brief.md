@@ -6,13 +6,11 @@
 ---
 
 ## やること
-
-SIFT成果物を Workshop Phase 00103 の5層文脈ファイル（SOUL/USER/MEMORY/WORKFLOW/DILIGENCE）に変換する下書きを作る。Workshop entry briefを書く。
+SIFT成果物をWorkshopの5層文脈ファイル（SOUL/USER/MEMORY/WORKFLOW/DILIGENCE）に変換する下書きを作り、Workshop entry briefを書く。
 
 ---
 
 ## Step 1: まず自分で書く（10分）
-
 Claudeに渡す前に、まず自分で以下を書いてください（10分）:
 
 1. SIFTで得た成果のうち、Workshopで最も活かしたいものは？
@@ -133,7 +131,6 @@ Workshop Phase 00103 で以下の5層を正式に作ります。今回はその�
 ---
 
 ## チェックリスト
-
 - [ ] SIFTの全成果物を手元に置いた
 - [ ] 事前メモ（preWriting）を書いた
 - [ ] SIFT成果物を5層にマッピングした
