@@ -1,6 +1,6 @@
 # Phase 40102: 業界・社会の「当たり前」
 
-> Part 401: 当たり前の発見 | Course 4: 役割設計
+> Part 401: 当たり前の発見 | Course 4: アンラーン — 調和と創発へ
 > 成果物: 40102_industry_assumptions.md
 
 ---

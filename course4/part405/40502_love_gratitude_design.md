@@ -1,6 +1,6 @@
 # Phase 40502: 愛と感謝で動く行動設計
 
-> Part 405: 統合と動機転換 | Course 4: 役割設計
+> Part 405: 統合と動機転換 | Course 4: アンラーン — 調和と創発へ
 > 成果物: 40502_love_gratitude_design.md
 
 ---

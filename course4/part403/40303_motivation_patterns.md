@@ -1,6 +1,6 @@
 # Phase 40303: 不安と恐怖 vs 愛と感謝
 
-> Part 403: 効率化の限界と動機 | Course 4: 役割設計
+> Part 403: 効率化の限界と動機 | Course 4: アンラーン — 調和と創発へ
 > 成果物: 40303_motivation_patterns.md
 
 ---

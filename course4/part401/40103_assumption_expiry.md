@@ -1,6 +1,6 @@
 # Phase 40103: 「当たり前」の賞味期限
 
-> Part 401: 当たり前の発見 | Course 4: 役割設計
+> Part 401: 当たり前の発見 | Course 4: アンラーン — 調和と創発へ
 > 成果物: 40103_assumption_expiry.md
 
 ---

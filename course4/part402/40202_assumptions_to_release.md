@@ -1,6 +1,6 @@
 # Phase 40202: 手放すべき前提の特定
 
-> Part 402: AI 前後の前提と抵抗 | Course 4: 役割設計
+> Part 402: AI 前後の前提と抵抗 | Course 4: アンラーン — 調和と創発へ
 > 成果物: 40202_assumptions_to_release.md
 
 ---

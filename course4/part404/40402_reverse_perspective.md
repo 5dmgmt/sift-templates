@@ -1,6 +1,6 @@
 # Phase 40402: 逆の立場を取る + 初心者に学ぶ
 
-> Part 404: 前提アンラーン実践 | Course 4: 役割設計
+> Part 404: 前提アンラーン実践 | Course 4: アンラーン — 調和と創発へ
 > 成果物: 40402_reverse_perspective.md
 
 ---

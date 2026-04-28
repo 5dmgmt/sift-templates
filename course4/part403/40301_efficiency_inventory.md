@@ -1,6 +1,6 @@
 # Phase 40301: 効率化で得たものと失ったもの
 
-> Part 403: 効率化の限界と動機 | Course 4: 役割設計
+> Part 403: 効率化の限界と動機 | Course 4: アンラーン — 調和と創発へ
 > 成果物: 40301_efficiency_inventory.md
 
 ---

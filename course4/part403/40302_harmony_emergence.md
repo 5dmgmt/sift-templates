@@ -1,6 +1,6 @@
 # Phase 40302: 調和と創発とは何か
 
-> Part 403: 効率化の限界と動機 | Course 4: 役割設計
+> Part 403: 効率化の限界と動機 | Course 4: アンラーン — 調和と創発へ
 > 成果物: 40302_harmony_emergence.md
 
 ---
