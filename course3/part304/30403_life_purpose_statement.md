@@ -1,6 +1,6 @@
 # Phase 30403: パーパスステートメントの作成
 
-> Part 304: 人生の目的 | Course 3: 価値の発掘
+> Part 304: 人生の目的を言語化する | Course 3: 目的の言語化
 > 成果物: 30403_life_purpose_statement.md
 
 ---

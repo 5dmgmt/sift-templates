@@ -1,6 +1,6 @@
 # Phase 30103: 「何のために？」の不在に気づく
 
-> Part 301: 効率化の末路 | Course 3: 価値の発掘
+> Part 301: 効率化の末路を体感する | Course 3: 目的の言語化
 > 成果物: 30103_efficiency_without_purpose.md
 
 ---

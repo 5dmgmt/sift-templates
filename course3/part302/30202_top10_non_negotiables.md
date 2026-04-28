@@ -1,6 +1,6 @@
 # Phase 30202: 大切なもの10リスト
 
-> Part 302: 本当に大切なもの | Course 3: 価値の発掘
+> Part 302: 本当に大切なものを特定する | Course 3: 目的の言語化
 > 成果物: 30202_top10_non_negotiables.md
 
 ---
@@ -49,7 +49,7 @@ Claudeに渡す前に、まず自分で以下を書いてください（10分）
 - `~/sift/course3/part302/30201_deathbed_regrets.md` — 前回 Phase 30201 で作成した死の床ワーク
 
 ## 参照ファイル (任意)
-- `~/sift/course1/part104/10403_value_top5.md` — Course 1 で発見した価値観 (存在すれば照合に使う)
+- `~/sift/course1/part104/10403_core_values.md` — Course 1 で発見した価値観 (存在すれば照合に使う)
 
 ## 進め方（私に確認を取らずに開始してください）
 
@@ -57,7 +57,7 @@ Claudeに渡す前に、まず自分で以下を書いてください（10分）
 1. **作業ファイル** `~/sift/course3/part302/30202_top10_non_negotiables.md` を Read で開き、Step 1 セクションの事前メモを取得
 2. **参照ファイル (必須)** `~/sift/course3/part302/30201_deathbed_regrets.md` を Read で開く。
    - Step 3 の後悔リストが空欄 or テンプレのままの場合、ここで停止して受講者に「Phase 30201 を先に完遂してください」と伝える
-3. **参照ファイル (任意)** `~/sift/course1/part104/10403_value_top5.md` を Read で開く。存在しない or 空欄でも続行可
+3. **参照ファイル (任意)** `~/sift/course1/part104/10403_core_values.md` を Read で開く。存在しない or 空欄でも続行可
 4. 事前メモが空欄なら、以下 3 問をまとめて 1 度に提示し、私の答えを待つ（A/B/C 選択肢は出さない）:
    - 30201 の後悔リストを見返して、最も胸に刺さった後悔はどれか？
    - Course 1 で発見した価値観のうち、今も生きていると感じるものは？

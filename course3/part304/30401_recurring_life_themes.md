@@ -1,6 +1,6 @@
 # Phase 30401: 人生で繰り返し現れるテーマ
 
-> Part 304: 人生の目的 | Course 3: 価値の発掘
+> Part 304: 人生の目的を言語化する | Course 3: 目的の言語化
 > 成果物: 30401_recurring_life_themes.md
 
 ---
@@ -46,7 +46,7 @@ Claudeに渡す前に、まず自分で以下を書いてください（10分）
 このファイルには Step 1 (事前メモ) / Step 2 (このプロンプト) / Step 3 (成果物テンプレート) / チェックリスト が含まれています。
 
 ## 参照ファイル (任意)
-- `~/sift/course1/part101/10103_recurring_patterns.md` — Course 1 で発見した再現パターン (存在すれば人生地図として活用)
+- `~/sift/course1/part101/10103_life_patterns.md` — Course 1 で発見した再現パターン (存在すれば人生地図として活用)
 - `~/sift/course1/part105/10501_life_map.md` — Course 1 の人生地図 (存在すれば反復テーマの裏付けに活用)
 
 ## 進め方（私に確認を取らずに開始してください）

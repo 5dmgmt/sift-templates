@@ -1,6 +1,6 @@
 # Phase 30101: 効率化の成功体験を書き出す
 
-> Part 301: 効率化の末路 | Course 3: 価値の発掘
+> Part 301: 効率化の末路を体感する | Course 3: 目的の言語化
 > 成果物: 30101_efficiency_wins.md
 
 ---

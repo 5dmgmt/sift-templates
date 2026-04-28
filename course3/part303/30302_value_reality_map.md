@@ -1,6 +1,6 @@
 # Phase 30302: 今の事業は誰を幸せにしているか
 
-> Part 303: 事業の目的 | Course 3: 価値の発掘
+> Part 303: 事業の目的を再定義する | Course 3: 目的の言語化
 > 成果物: 30302_value_reality_map.md
 
 ---

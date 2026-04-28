@@ -1,6 +1,6 @@
 # Phase 30102: 効率化の先にあったもの
 
-> Part 301: 効率化の末路 | Course 3: 価値の発掘
+> Part 301: 効率化の末路を体感する | Course 3: 目的の言語化
 > 成果物: 30102_cost_of_efficiency.md
 
 ---

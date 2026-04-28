@@ -1,6 +1,6 @@
 # Phase 30501: 人生×事業の統合マップ
 
-> Part 305: 目的統合 | Course 3: 価値の発掘
+> Part 305: 目的統合 | Course 3: 目的の言語化
 > 成果物: 30501_life_business_alignment_map.md
 
 ---

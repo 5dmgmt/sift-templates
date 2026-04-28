@@ -1,6 +1,6 @@
 # Phase 30301: なぜこの事業を始めたか
 
-> Part 303: 事業の目的 | Course 3: 価値の発掘
+> Part 303: 事業の目的を再定義する | Course 3: 目的の言語化
 > 成果物: 30301_founder_origin_story.md
 
 ---
