@@ -51,11 +51,11 @@ Part 701 で SIFT 全体を振り返りました。今回は SIFT 成果物を�
 このファイルには Step 1 (事前メモ) / Step 2 (このプロンプト) / Step 3 (成果物テンプレート) / チェックリスト が含まれています。
 
 ## 参照ファイル (必須、6 件すべて)
-- `~/sift/course1/part101/10103_life_timeline_v1.md` — 人生年表 (Course 1)
-- `~/sift/course1/part103/10303_strength_decay_map.md` — 得意・苦手マップ (Course 1)
-- `~/sift/course3/part303/30303_business_purpose.md` — 事業パーパス (Course 3)
-- `~/sift/course3/part304/30403_life_purpose.md` — 人生パーパス (Course 3)
-- `~/sift/course3/part305/30503_purpose_integration.md` — 目的統合 (Course 3 集大成)
+- `~/sift/course1/part101/10101_life_timeline.md` — 人生年表 (Course 1)
+- `~/sift/course1/part103/10303_role_fit_matrix.md` — 得意・苦手マップ (Course 1)
+- `~/sift/course3/part303/30303_business_purpose_statement.md` — 事業パーパス (Course 3)
+- `~/sift/course3/part304/30403_life_purpose_statement.md` — 人生パーパス (Course 3)
+- `~/sift/course3/part305/30503_course3_synthesis.md` — 目的統合 (Course 3 集大成)
 - `~/sift/course7/part701/70103_sift_synthesis.md` — SIFT 統括メモ
 
 ## 進め方（私に確認を取らずに開始してください）
@@ -180,7 +180,7 @@ Claude が以下を提示する:
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた
-- [ ] Claude が 10103_life_timeline_v1.md / 10303_strength_decay_map.md / 30303_business_purpose.md / 30403_life_purpose.md / 30503_purpose_integration.md / 70103_sift_synthesis.md の 6 ファイルを Read して参照したことを確認した
+- [ ] Claude が 10101_life_timeline.md / 10303_role_fit_matrix.md / 30303_business_purpose_statement.md / 30403_life_purpose_statement.md / 30503_course3_synthesis.md / 70103_sift_synthesis.md の 6 ファイルを Read して参照したことを確認した
 - [ ] Claude が SOUL.md (人生パーパス / 価値観 / 事業パーパス / ミッション) を Markdown 完成形で作成したことを確認し、納得した
 - [ ] Claude が USER.md (得意クラスター / 消耗パターン / リーダーシップ OS / 意思決定) を Markdown 完成形で作成したことを確認した
 - [ ] Claude が SOUL/USER と SIFT 成果物の整合性 + 不足情報 + 70202 への持ち込み事項を提示したことを確認した

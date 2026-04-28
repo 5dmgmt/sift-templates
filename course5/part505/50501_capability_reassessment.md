@@ -181,7 +181,7 @@ Claude が以下を提示する:
 
 ## チェックリスト
 
-- [ ] 事前メモ（Step 1）を Phase 50102 の結果を見る前に自分で書いた
+- [ ] 事前メモ（Step 1）を自分で書いた（Phase 50102 の結果を見る前に）
 - [ ] Claude が 50102_five_capabilities.md / 50203_description_loop.md / 50303_ai_error_patterns.md / 50401_ai_diligence_policy.md / 50403_stop_rollback_escalation.md の 5 ファイルを Read して参照したことを確認した
 - [ ] Claude が 5 能力それぞれを 1 ターン 1 能力で再評価し、Phase 50102 との差分を提示したことを確認し、納得した
 - [ ] Claude が変化の分析 (最も上がった能力 / 変わらなかった能力 / 予想外の変化) + 成長エビデンスを各能力 1 件以上引用したことを確認した

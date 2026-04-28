@@ -49,9 +49,9 @@ Course 1-6 の全 90 Phase を経て、ここから SIFT 全体の総括に入�
 このファイルには Step 1 (事前メモ) / Step 2 (このプロンプト) / Step 3 (成果物テンプレート) / チェックリスト が含まれています。
 
 ## 参照ファイル (必須、Course 別代表 6 件 + Course 1-6 全成果物 Glob)
-- `~/sift/course1/part105/10503_life_map_v1.md` — Course 1 集大成 (人生の地図)
-- `~/sift/course2/part205/20503_letting_go_synthesis.md` — Course 2 集大成 (手放し統合)
-- `~/sift/course3/part305/30503_purpose_integration.md` — Course 3 集大成 (目的統合)
+- `~/sift/course1/part105/10503_course1_synthesis.md` — Course 1 集大成 (人生の地図)
+- `~/sift/course2/part205/20503_course2_retrospective.md` — Course 2 集大成 (手放し統合)
+- `~/sift/course3/part305/30503_course3_synthesis.md` — Course 3 集大成 (目的統合)
 - `~/sift/course4/part405/40503_course4_synthesis.md` — Course 4 振り返り
 - `~/sift/course5/part505/50503_course5_synthesis.md` — Course 5 振り返り
 - `~/sift/course6/part605/60503_course6_synthesis.md` — Course 6 振り返り
