@@ -48,7 +48,7 @@ Phase 70201 で SOUL.md / USER.md を作成しました。今回は MEMORY.md (�
 このファイルには Step 1 (事前メモ) / Step 2 (このプロンプト) / Step 3 (成果物テンプレート) / チェックリスト が含まれています。
 
 ## 参照ファイル (必須、5 件すべて)
-- `~/sift/course2/part205/20503_course2_retrospective.md` — 手放し統合 (Course 2 集大成)
+- `~/sift/course2/part205/20503_course2_synthesis.md` — 手放し統合 (Course 2 集大成)
 - `~/sift/course4/part404/40403_unlearn_experiment_log.md` — アンラーンログ (Course 4)
 - `~/sift/course5/part502/50201_delegation_matrix.md` — 委任マトリクス (Course 5)
 - `~/sift/course6/part605/60501_final_system.md` — 仕組み最終版 (Course 6)
@@ -177,7 +177,7 @@ Claude が以下を提示する:
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた
-- [ ] Claude が 20503_course2_retrospective.md / 40403_unlearn_experiment_log.md / 50201_delegation_matrix.md / 60501_final_system.md / 70201_soul_user.md の 5 ファイルを Read して参照したことを確認した
+- [ ] Claude が 20503_course2_synthesis.md / 40403_unlearn_experiment_log.md / 50201_delegation_matrix.md / 60501_final_system.md / 70201_soul_user.md の 5 ファイルを Read して参照したことを確認した
 - [ ] Claude が MEMORY.md (手放し実績 / 再発防止 / 失敗ログ / 定期確認) を Markdown 完成形で作成したことを確認し、納得した
 - [ ] Claude が WORKFLOW.md (委任マトリクス 4 分類 / 仕組み一覧 / 更新ルール) を Markdown 完成形で作成したことを確認した
 - [ ] Claude が SOUL/USER との整合性 + 未検証ルール + 70203 への持ち込み事項を提示したことを確認した
