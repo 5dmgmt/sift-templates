@@ -7,7 +7,7 @@
 
 ## やること
 
-1つの業務課題に対してDescription→Discernment→改善を3周回し、見極めの精度が上がる過程を記録する。
+1つの業務課題に対してDescription→Discernment→改善を3周回し、見極めの精度が上がる過程を記録する (件数は問わない / 周数は genuine な改善が見えるまで)。Course 5 Part 503 の本丸 = SIFT 三層モデル第一層 (能力スキル) の **Discernment 反復実践 (識別 = 正見の継続実装)**。
 
 ---
 

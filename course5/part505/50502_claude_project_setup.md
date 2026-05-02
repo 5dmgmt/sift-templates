@@ -7,7 +7,7 @@
 
 ## やること
 
-Claude.aiのProject機能を使い、Course 1-5の成果物を文脈として設定した「自分専用プロジェクト」を作り、実際に業務相談を3件テストする。
+Claude.aiのProject機能を使い、Course 1-5の成果物を文脈として設定した「自分専用プロジェクト」を作り、実際に業務相談をテストする (件数は問わない)。Course 5 Part 505 = SIFT 三層モデル第一層 (能力スキル) の Context Engineering 入口 (Course 6 で本格化) + 5 能力 (4D + Design) の統合運用テスト。
 
 ---
 
