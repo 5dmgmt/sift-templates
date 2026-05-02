@@ -7,7 +7,7 @@
 
 ## やること
 
-vault全体をClaudeに読ませて整合性・鮮度・網羅性をチェックし、修正・追加する。
+vault全体をClaudeに読ませて整合性・鮮度・網羅性をチェックし、修正・追加する。Course 6 = SIFT 三層モデルの第三層 entry の枠組みのうち、本 Phase は第一層 (4D 能力 / vault 全体監査 = Diligence + Discernment) の総点検。
 
 ---
 
