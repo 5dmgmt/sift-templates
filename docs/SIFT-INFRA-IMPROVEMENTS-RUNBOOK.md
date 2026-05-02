@@ -51,7 +51,7 @@ git mv は履歴保持なので、git revert で戻せる
 - ✅ 外部参照: `course7/part701/70101_sift_retrospective.md` line 53 を Edit
 - ✅ 外部参照: `course7/part702/70202_memory_workflow.md` line 51 + line 180 を Edit
 - ✅ `grep -r "20503_course2_retrospective" ~/Plugins/sift-templates/` で実体参照 0 件確認（残った 2 件は本ランブックの履歴記述のみ）
-- ✅ commit `（実行直後の commit hash を記録）` + push 成功
+- ✅ commit `1f19d1e` + push 成功
 
 ---
 
