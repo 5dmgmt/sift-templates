@@ -7,7 +7,7 @@
 
 ## やること
 
-5層文脈ファイルをWorkshop Phase 00103 の形式に合わせて最終調整し、workshop.aifcc.jpにログインして接続を確認する。
+5層文脈ファイルをWorkshop Phase 00103 の形式に合わせて最終調整し、workshop.aifcc.jpにログインして接続を確認する。Course 7 「整える・作る・回す」(本書 7-9) の **「整える」 → 「作る」接続地点 = SIFT 完了 + Workshop 着手の橋渡し**。SOUL.md (損徳得厄判断軸を含む) / USER.md / MEMORY.md / WORKFLOW.md / DILIGENCE.md (三層モデル停止条件) の 5 層文脈で Workshop で「作る」フェーズへ移行する。
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## やること
 
-Course 1-6の全成果物を一覧にし、各Courseの最大の気づきを3件ずつ書き出す。Course 7 全体は SIFT 全体の総括 + Integration（日常実践への統合）への橋渡しコース。Course 1-6 で生成した Intent / 立ち上げた新能力を、Workshop の実装演習へ接続する。日常運用の実装 = RUN（Layer 6 実践装置）が最終的な Integration の場。
+Course 1-6の全成果物を一覧にし、各Courseの最大の気づきを書き出す (件数は問わない)。Course 7 全体は **SIFT 三層モデル統合 + 「整える・作る・回す」(本書 7-9) の Integration（日常実践への統合）への橋渡しコース**。Course 1-6 で生成した Intent / 立ち上げた新能力を Workshop の実装演習へ接続する。本 Phase は **三層モデルでどこに居るか自己診断 (第一層 = 4D 能力 / 第二層 = 4 不安 = Pattern 6 / 第三層 = ハート起点 = Pattern 9)** を Step 1 に追加。日常運用の実装 = RUN（Layer 6 実践装置）が最終的な Integration の場。
 
 ---
 
