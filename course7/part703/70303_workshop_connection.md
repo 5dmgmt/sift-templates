@@ -66,15 +66,16 @@ Part 701-702 で SIFT 全体振り返り + 5 層文脈ファイル作成を完�
    - Workshop に向けての意気込みを一言で
 4. 必要情報が揃ったら確認や進め方ヒアリングをはさまず即 Step 1 へ
 
-### Step 1: 5 層ファイルの最終調整（1 ターン 1 ファイル）
-Claude が 5 層文脈ファイルを Workshop Phase 00103 形式に合わせて 1 ターンに 1 ファイルずつ最終チェック + 修正案を提示する:
+### Step 1: 5 層ファイルの最終調整（順に進める / 件数は問わない）
+Claude が 5 層文脈ファイルを Workshop Phase 00103 形式に合わせて 1 ファイルずつ最終チェック + 修正案を提示する。チェック観点 (件数は問わない / 該当する観点のみ):
 - ファイル名が正しいか (SOUL.md, USER.md, MEMORY.md, WORKFLOW.md, DILIGENCE.md)
 - 各ファイルの冒頭に概要 (3 行以内) が書かれているか
 - 他の AI ツールや Workshop 環境でも読める汎用的な形式か
 - 個人情報やセキュリティ上の問題がないか
+- **三層モデル + 損徳得厄判定軸の引き継ぎ確認** (本書 7-9 / SIFT-LAYER-FRAMEWORK §3-§5 / Course 4-6 全体の到達点を Workshop へ): **第一層 (4D 能力 + Design = SIFT で立ち上げた 5 能力)** が SOUL.md / USER.md に明示 / **第二層 (Pattern 6 で言語化済み 4 不安 = 存在価値 / 無能露呈 / 承認喪失 / コントロール喪失 + 残存項目)** が MEMORY.md に明示 / **第三層 (Pattern 9 ハート起点 = 胸への意識 + 寝息の呼吸 / 本書 5-11 + 損徳得厄判断軸 = 本書 7-5 / 7-6 / 「頭で得を追う」 vs 「ハートで愛を出す」)** が SOUL.md の意思決定軸 + DILIGENCE.md の停止条件に明示されているか
 
 各ファイル提示後、受講者に「修正したい点はあるか」を 1 問だけ聞く。
-最終的に修正した箇所 3 件以上を Claude が記録する。
+最終的に修正した箇所を Claude が記録する (件数は問わない / 該当なしも genuine)。
 
 ### Step 2: workshop.aifcc.jp ログイン確認
 Claude が以下を提示し、受講者に実機ログインを依頼する:
@@ -225,7 +226,8 @@ Claude が以下を提示する:
 - [ ] 事前メモ（Step 1）を自分で書いた
 - [ ] Claude が 70201_soul_user.md / 70202_memory_workflow.md / 70203_diligence_quality.md / 70301_workshop_first_build.md / 70302_handoff_checklist.md の 5 ファイルを Read して参照したことを確認した
 - [ ] Claude が 5 層ファイル (SOUL/USER/MEMORY/WORKFLOW/DILIGENCE) を 1 ターン 1 ファイルで Workshop 00103 形式に合わせて最終調整したことを確認し、納得した
-- [ ] Claude が修正が必要な箇所を修正した (修正箇所 3 件以上を提示) ことを確認した
+- [ ] Claude が修正が必要な箇所を修正した (修正箇所 件数は問わない / 該当なしも genuine) ことを確認した
+- [ ] Claude が三層モデル + 損徳得厄判定軸の引き継ぎ確認 (第一層 4D + Design = SOUL/USER / 第二層 Pattern 6 4 不安 = MEMORY / 第三層 Pattern 9 ハート起点 + 損徳得厄判断軸 = SOUL 意思決定軸 + DILIGENCE 停止条件) を提示し、5 層ファイルとの対応を確認したことを確認した
 - [ ] 受講者が workshop.aifcc.jp にログインし、ログイン / プロフィール / SIFT 完了状態の 3 項目を確認して結果を Claude Code に戻した
 - [ ] Claude が SIFT 全体の積み残しを Course 1-6 の X053 (10503/20503/30503/40503/50503/60503) から集約し、`~/sift/_SIFT_CARRY_OVER.md` に書き戻したことを確認した
 - [ ] Claude が「特に意識して持ち越したい 3 件」を受講者に聞き、集約サマリーに反映したことを確認した
