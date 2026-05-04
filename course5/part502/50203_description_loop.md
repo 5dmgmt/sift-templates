@@ -193,7 +193,7 @@ Claude が周回 2 のレビューに基づいてプロンプトを修正し、�
 
 - [ ] 事前メモ（Step 1）を自分で書いた
 - [ ] Claude が 50202_prompt_comparison.md を Read して参照したことを確認した
-- [ ] Claude が 3 周分のプロンプト + 想定出力 + 3 観点 (Product / Process / Performance) 評価を 1 ターン 1 周回で提示したことを確認し、納得した
+- [ ] Claude が 3 周分のプロンプト + 想定出力 + 3 観点 (Product / Process / Performance) 評価を周回ごとに順に提示したことを確認し、納得した
 - [ ] Claude が進化サマリ + 最も効果があった改善パターン + Description 力の現在地 + failure_log を提示したことを確認した
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
 

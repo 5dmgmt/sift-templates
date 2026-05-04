@@ -192,9 +192,9 @@ Claude が Project Instructions (役割 / トーン / 制約 / 50403 由来の�
 
 - [ ] 事前メモ（Step 1）を自分で書いた
 - [ ] Claude が 50401_ai_diligence_policy.md / 50403_stop_rollback_escalation.md / 50501_capability_reassessment.md の 3 ファイルを Read して参照したことを確認した
-- [ ] Claude がプロジェクト名 + 目的 + 文脈ファイル 7-15 件 (機密データ除外、理由付き) を選定したことを確認し、納得した
+- [ ] Claude がプロジェクト名 + 目的 + 文脈ファイル (件数は問わない / 機密データ除外、理由付き、redaction 確認済) を選定したことを確認し、納得した
 - [ ] Claude が Project Instructions (役割 / 制約 / 停止条件 / 機密データ取扱) + 構築手順をガイドしたことを確認した
-- [ ] Claude が業務相談テスト 3 件のプロンプト + 評価観点を 1 ターン 1 件で設計したことを確認した
+- [ ] Claude が業務相談テストのプロンプト + 評価観点を順に設計したことを確認した (件数は問わない)
 - [ ] 受講者が claude.ai で実機構築 + 3 件のテストを実行し、結果を Claude Code に戻した
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
 
