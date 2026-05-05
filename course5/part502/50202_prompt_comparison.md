@@ -93,7 +93,7 @@ Claude が以下を提示する:
 ### Step 4: 成果物を vault に書き戻す
 `~/sift/course5/part502/50202_prompt_comparison.md` の Step 3「成果物」セクションを Edit で書き込む。
 - ファイルの Step 1 / Step 2 (このプロンプト) は触らない
-- Step 3 の Level 1/2/3 プロンプト + 出力 + 評価 / 比較サマリ / 学び / 次の Phase へのメモ を埋める
+- Step 3 の Level 1/2/3 プロンプト + 出力 + 評価 / 比較サマリ / 学び / failure_log / 損徳得厄メモ / 次の Phase へのメモ を埋める
 - チェックリストの該当項目に ✓ を入れる
 - 上書き前に必ず Read で現状を確認し、Step 3 が書き込み済みなら私に確認
 
@@ -207,7 +207,7 @@ Claude が以下を提示する:
 - [ ] Claude が 50201_delegation_matrix.md を Read して参照したことを確認した
 - [ ] Claude が 3 段階 (Level 1 曖昧 / Level 2 構造化 / Level 3 文脈付き) のプロンプトを順に設計したことを確認した
 - [ ] Claude が 3 段階の想定出力 + 4 観点 (正確さ / 具体性 / 実用性 / 効率) で評価したことを確認し、納得した
-- [ ] Claude が比較サマリ + Level 間の差分 + プロンプトの癖を提示したことを確認した
+- [ ] Claude が比較サマリ + Level 間の差分 + プロンプトの癖 + failure_log + 損徳得厄メモ を提示したことを確認した (件数は問わない / 該当なしも genuine)
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
 
 ---
