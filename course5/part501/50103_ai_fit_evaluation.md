@@ -161,7 +161,7 @@ Claude が以下を提示する (件数は問わない / 各カテゴリ該当�
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた
-- [ ] Claude が 50101_ai_fluency_assessment.md / 50102_five_capabilities.md の 2 ファイルを Read して参照したことを確認した
+- [ ] Claude が 50101_ai_fluency_assessment.md / 50102_five_capabilities.md の 2 ファイルを acceptance ベース完了判定で Read し、不足時は停止したことを確認した
 - [ ] **Claude との対話で** 業務が順に AI 適合度 / リスク / 協力方法 / 必要な能力の 4 基本項目 + 任意の損徳得厄メモ (本書 7-5 / 7-6 / 該当なしも genuine) で評価されたことを確認し、納得した (件数は問わない / = 自分で書き出すのではなく、対話で広げた結果)
 - [ ] Claude が優先順位マトリクス (最優先 / 次に取り組む / 人間担当) + 能力別必要度を提示したことを確認した
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
