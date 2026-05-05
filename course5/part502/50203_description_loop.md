@@ -173,7 +173,7 @@ genuine な改善が見えなくなった / 「次にやるならここ」が残
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた
-- [ ] Claude が 50202_prompt_comparison.md を Read して参照したことを確認した
+- [ ] Claude が 50202_prompt_comparison.md を Read して acceptance ベースの完了判定 (= 業務課題抽象化 + Level1-3 プロンプト + 想定出力 (必要十分な要約 / 行数は問わない) + 4 観点評価 (正確さ / 具体性 / 実用性 / 効率) + Level 間差分 + プロンプトの癖 / 今後使いたいパターン (件数は問わない / 該当なしも genuine) + failure_log + 損徳得厄メモ + 引継ぎメモ + 安全分離) を確認したことを確認した
 - [ ] Claude が周回ごとのプロンプト + 想定出力 + 3 観点 (Product / Process / Performance) 評価を順に提示したことを確認し、納得した (件数は問わない / 周数は genuine な改善が見えるまで)
 - [ ] Claude が進化サマリ + 最も効果があった改善パターン + Description 力の現在地 + failure_log + 損徳得厄メモ を提示したことを確認した (件数は問わない / 該当なしも genuine)
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
