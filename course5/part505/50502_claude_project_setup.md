@@ -129,6 +129,7 @@ Claude が Project Instructions (役割 / トーン / 制約 / 50403 由来の�
 - **プロジェクト名**:
 - **目的**:
 - **想定利用場面**:
+- **redacted context pack ディレクトリ**: (例: `~/sift/course5/part505/context-pack/` / raw ではなく redacted pack を作成して claude.ai にアップロード)
 
 ## 文脈ファイル
 
@@ -180,6 +181,7 @@ Claude が Project Instructions (役割 / トーン / 制約 / 50403 由来の�
 - [ ] 事前メモ（Step 1）を自分で書いた
 - [ ] Claude が 50401_ai_diligence_policy.md / 50403_stop_rollback_escalation.md / 50501_capability_reassessment.md の 3 ファイルを Read して acceptance ベース完了判定を確認したことを確認した (件数は問わない / 各カテゴリ該当なしも genuine / 50501 Design 第一層 / 第三層 分離記録を含む)
 - [ ] Claude がプロジェクト名 + 目的 + 文脈ファイル (件数は問わない / 機密データ除外、理由付き、redaction 確認済) を選定したことを確認し、納得した
+- [ ] **redacted context pack** を作成し、raw ではなく pack を claude.ai にアップロードしたことを確認した (ディレクトリパスを成果物に記録 / pack 単位 redact 完了確認)
 - [ ] Claude が Project Instructions (役割 / 制約 / 停止条件 / 機密データ取扱) + 構築手順をガイドしたことを確認した
 - [ ] Claude が業務相談テストのプロンプト + 評価観点を順に設計したことを確認した (件数は問わない)
 - [ ] 受講者が claude.ai で実機構築 + テストを実行し、結果を Claude Code に戻した (件数は問わない)
