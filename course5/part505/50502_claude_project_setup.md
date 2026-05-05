@@ -107,7 +107,7 @@ Claude が Project Instructions (役割 / トーン / 制約 / 50403 由来の�
 
 ## ルール
 - **進め方の確認・好みヒアリングは禁止**。上記の手順で決め打ちで進める
-- **質問は 1 ターンに 1 つだけ**。複数選択肢の提示や複数項目の同時質問は禁止
+- **質問は 1 ターンに 1 つだけ**（Step 0 の事前メモ未記入時の 3 問まとめ提示は唯一の例外 / Step 1-4 では厳守）。複数選択肢の提示や複数項目の同時質問は禁止
 - 根拠がある部分と、推測の部分を分けて出力する
 - まだ確定していない暫定判断には【仮説】マークをつける
 - 文脈ファイルに機密データ (Phase 50401 の policy に基づく) を入れないこと
@@ -178,7 +178,7 @@ Claude が Project Instructions (役割 / トーン / 制約 / 50403 由来の�
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた
-- [ ] Claude が 50401_ai_diligence_policy.md / 50403_stop_rollback_escalation.md / 50501_capability_reassessment.md の 3 ファイルを Read して参照したことを確認した
+- [ ] Claude が 50401_ai_diligence_policy.md / 50403_stop_rollback_escalation.md / 50501_capability_reassessment.md の 3 ファイルを Read して acceptance ベース完了判定を確認したことを確認した (件数は問わない / 各カテゴリ該当なしも genuine / 50501 Design 第一層 / 第三層 分離記録を含む)
 - [ ] Claude がプロジェクト名 + 目的 + 文脈ファイル (件数は問わない / 機密データ除外、理由付き、redaction 確認済) を選定したことを確認し、納得した
 - [ ] Claude が Project Instructions (役割 / 制約 / 停止条件 / 機密データ取扱) + 構築手順をガイドしたことを確認した
 - [ ] Claude が業務相談テストのプロンプト + 評価観点を順に設計したことを確認した (件数は問わない)

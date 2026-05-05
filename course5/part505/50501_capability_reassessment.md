@@ -112,7 +112,7 @@ Claude が以下を提示する。**エビデンスは Phase ID + 該当セク�
 
 ## ルール
 - **進め方の確認・好みヒアリングは禁止**。上記の手順で決め打ちで進める
-- **質問は 1 ターンに 1 つだけ**。複数選択肢の提示や複数項目の同時質問は禁止
+- **質問は 1 ターンに 1 つだけ**（Step 0 の事前メモ未記入時の 3 問まとめ提示は唯一の例外 / Step 1-4 では厳守）。複数選択肢の提示や複数項目の同時質問は禁止
 - 根拠がある部分と、推測の部分を分けて出力する
 - まだ確定していない暫定判断には【仮説】マークをつける
 - 「全部成長した」と言いたい気持ちを抑え、正直に評価する。変わらなかった部分も重要な記録
@@ -190,7 +190,7 @@ Claude が以下を提示する。**エビデンスは Phase ID + 該当セク�
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた（Phase 50102 の結果を見る前に）
-- [ ] Claude が 50102_five_capabilities.md / 50203_description_loop.md / 50303_ai_error_patterns.md / 50401_ai_diligence_policy.md / 50403_stop_rollback_escalation.md の 5 ファイルを Read して参照したことを確認した
+- [ ] Claude が 50102_five_capabilities.md / 50203_description_loop.md / 50303_ai_error_patterns.md / 50401_ai_diligence_policy.md / 50403_stop_rollback_escalation.md の 5 ファイルを Read して acceptance ベース完了判定を確認したことを確認した (件数は問わない / 各カテゴリ該当なしも genuine)
 - [ ] Claude が 5 能力それぞれを順に再評価し、Phase 50102 との差分を提示したことを確認し、納得した
 - [ ] Claude が変化の分析 (最も上がった能力 / 変わらなかった能力 / 予想外の変化) + 成長エビデンスを各能力 **要約引用** で提示したことを確認した (件数は問わない / 各項目該当なしも genuine)
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した

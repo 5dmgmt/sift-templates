@@ -123,7 +123,7 @@ Claude が以下を提示する:
 
 ## ルール
 - **進め方の確認・好みヒアリングは禁止**。上記の手順で決め打ちで進める
-- **質問は 1 ターンに 1 つだけ**。複数選択肢の提示や複数項目の同時質問は禁止
+- **質問は 1 ターンに 1 つだけ**（Step 0 の事前メモ未記入時の 3 問まとめ提示は唯一の例外 / Step 1-4 では厳守）。複数選択肢の提示や複数項目の同時質問は禁止
 - 根拠がある部分と、推測の部分を分けて出力する
 - まだ確定していない暫定判断には【仮説】マークをつける
 - 私が別途確認すべき点があれば最後にまとめる
@@ -255,7 +255,7 @@ Claude が以下を提示する:
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた
-- [ ] Claude が 50203_description_loop.md / 50303_ai_error_patterns.md / 50403_stop_rollback_escalation.md / 50501_capability_reassessment.md / 50502_claude_project_setup.md の 5 ファイルを Read して参照したことを確認した
+- [ ] Claude が 50203_description_loop.md / 50303_ai_error_patterns.md / 50403_stop_rollback_escalation.md / 50501_capability_reassessment.md / 50502_claude_project_setup.md の 5 ファイルを Read して acceptance ベース完了判定を確認したことを確認した (件数は問わない / 各カテゴリ該当なしも genuine / 50203 改善ループ周回ごと + プロンプト + 想定出力 + 3 観点評価 + 改善点 + failure_log + 損徳得厄 / 50501 Design 第一層 / 第三層分離 / 50502 redacted context pack を含む)
 - [ ] Claude が 5 つの Part 別振り返りを順にまとめたことを確認した
 - [ ] Claude が変化の棚卸し (行動 / 考え方 / スキル / 件数は問わない) + C6 持ち越し課題 (件数は問わない) を提示したことを確認し、納得した
 - [ ] Claude が三層モデル「2 段構え」引き継ぎ (Course 5 = 第一層 4D + Design 立ち上げ / Course 6 = 第三層 Pattern 9 ハート起点で Design 深化 / 第二層 4 不安残存項目 / 損徳得厄判断軸) を提示したことを確認した (表自体は必須 / 各行の内容は genuine な実感のみ / 該当なしも genuine)
