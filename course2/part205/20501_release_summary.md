@@ -85,7 +85,7 @@ Part 205「手放し統合」に入りました。Part 202-204 で実行した�
 > - API key / token / `SUPABASE_SERVICE_ROLE_KEY` / `sb_secret_` / `sb_publishable_` / `SUPABASE_SECRET_KEY` / `SUPABASE_PUBLISHABLE_KEY` / `service_role` / Supabase JWT / `Authorization` / `Bearer` / `apikey` header / cookie / `op://` 参照 / `.env*` / RLS / migration 生 SQL
 > - **匿名 ID** (= 「同僚 A」「家族 1」等) で記録 / **placeholder** (`{相手の役割}` / `{関係性}`) で書く
 > - **非機密粒度のみ** (= 役割・関係性・頻度・非機密な理由)
-> - **読み取り粒度の上限**: 各ファイルの Step 3 必要セクションのみ (実行ログの上位 N 件 + 数値欄 + 安全/専用欄)。全文は読まない
+> - **読み取り粒度の上限**: 各ファイルの Step 3 必要セクションのみ (実行ログの必要セクション + 数値欄 + 安全/専用欄 / 件数は問わない / 該当する分だけ)。全文は読まない
 > - **混入時の停止条件**: secret 実値検出時は通常保存をやめて停止 → `op://...` 参照のみ残す → Supabase secret は rotate / revoke を案内。書き戻し前に **denylist scan (negative test)** を実行
 3. 事前メモが空欄なら、以下 3 問をまとめて 1 度に提示し、私の答えを待つ（A/B/C 選択肢は出さない / **Step 0 の事前メモ回収 3 問だけは「質問は 1 ターンに 1 つだけ」ルールの例外**。Step 1-3 は厳守）:
    - Course 2 を通じて最も手放しにくかったものとその理由
