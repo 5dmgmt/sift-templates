@@ -216,7 +216,7 @@ Claude が genuine なギャップ (件数は問わない / 5 件は目安 / 整
 
 ## Part 302 の統合メモ
 - 後悔から見えた大切なもの:
-- Non-negotiables Top 3:
+- 主要 Non-Negotiables (件数は問わない / 3 件は目安 / 該当なし可):
 - 最大のギャップ:
 
 ## 次のPartへのメモ
