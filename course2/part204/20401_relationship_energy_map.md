@@ -86,7 +86,7 @@ Part 204「人の手放し」に入りました。このPhaseでは、仕事・�
 
 > **第三者 PII 保存 redact ルール (重要)**: 第三者との関係情報を vault に保存するため、第三者の情報が永続化する:
 > - **匿名 ID をデフォルト** にする (= 「同僚 A」「家族 1」等 / 実名・連絡先・顧客 PII・社員評価・メッセージ本文・詳細な告発内容は保存しない)
-> - **対応表 (匿名 ID ↔ 実名) は AI から読めない場所に保管** (= **1Password Secure Note / 紙のメモ / Claude Code の Read 権限外かつ memory 外の暗号化メモ**)。**`CLAUDE.local.md` / `CLAUDE.md` 等 Claude Code が memory として自動ロードするファイルには絶対に保存しない**
+> - **対応表 (匿名 ID ↔ 実名) は AI から読めない場所に保管** (= **1Password Secure Note / 紙のメモ / Claude Code の Read 権限外かつ memory 外の暗号化メモ**)。**`CLAUDE.local.md` / `CLAUDE.md` 等 Claude Code が memory として自動ロードするファイルには絶対に保存しない**（Anthropic 公式 docs 上 `CLAUDE.local.md` は memory 自動ロード対象）
 > - 成果物には **役割・関係性・頻度・非機密な理由** だけ
 > - 混入時は伏せ字化 + 保存しない
 > - **書き戻し前 negative test**: 実名・連絡先・メッセージ本文・告発詳細が成果物に 0 件 / 安全/要確認区分が通常 5 表に流れていないことを確認
