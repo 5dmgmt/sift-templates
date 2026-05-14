@@ -72,7 +72,7 @@ Claude が 5 層文脈ファイルを Workshop Phase 00103 形式に合わせて
 - 各ファイルの冒頭に概要 (3 行以内) が書かれているか
 - 他の AI ツールや Workshop 環境でも読める汎用的な形式か
 - 個人情報やセキュリティ上の問題がないか
-- **三層モデル + 損徳得厄判定軸の引き継ぎ確認** (本書 7-9 / SIFT-LAYER-FRAMEWORK §3-§5 / Course 4-6 全体の到達点を Workshop へ): **第一層 (4D 能力 + Design = SIFT で立ち上げた 5 能力)** が SOUL.md / USER.md に明示 / **第二層 (Pattern 6 で言語化済み 4 不安 = 存在価値 / 無能露呈 / 承認喪失 / コントロール喪失 + 残存項目)** が MEMORY.md に明示 / **第三層 (Pattern 9 ハート起点 = 胸への意識 + 寝息の呼吸 / 本書 5-11 + 損徳得厄判断軸 = 本書 7-5 / 7-6 / 「頭で得を追う」 vs 「ハートで愛を出す」)** が SOUL.md の意思決定軸 + DILIGENCE.md の停止条件に明示されているか
+- **三層モデル + 損徳得厄判定軸の引き継ぎ確認** (本書 7-9 / SIFT-LAYER-FRAMEWORK §3-§5 / Course 4-6 全体の到達点を Workshop へ): **第一層 (4D 能力 = Anthropic 4D = Delegation / Description / Discernment / Diligence)** が SOUL.md / USER.md に明示 / **第二層 (Pattern 6 で言語化済み 4 不安 = 存在価値 / 無能露呈 / 承認喪失 / コントロール喪失 + 残存項目)** が MEMORY.md に明示 / **第三層 (Design 概念 + Pattern 9 ハート起点 = 胸への意識 + 寝息の呼吸 / 本書 5-11 + 損徳得厄判断軸 = 本書 7-5 / 7-6 / 「頭で得 = 短期得・長期厄」 vs 「ハートで愛 = 短期損・長期徳」)** が SOUL.md の意思決定軸 + DILIGENCE.md の停止条件に明示されているか
 
 各ファイル提示後、受講者に「修正したい点はあるか」を 1 問だけ聞く。
 最終的に修正した箇所を Claude が記録する (件数は問わない / 該当なしも genuine)。
