@@ -230,7 +230,7 @@ Claude が以下を提示する:
 - [ ] Claude が三層モデル + 損徳得厄判定軸の引き継ぎ確認 (第一層 4D + Design = SOUL/USER / 第二層 Pattern 6 4 不安 = MEMORY / 第三層 Pattern 9 ハート起点 + 損徳得厄判断軸 = SOUL 意思決定軸 + DILIGENCE 停止条件) を提示し、5 層ファイルとの対応を確認したことを確認した
 - [ ] 受講者が workshop.aifcc.jp にログインし、ログイン / プロフィール / SIFT 完了状態の 3 項目を確認して結果を Claude Code に戻した
 - [ ] Claude が SIFT 全体の積み残しを Course 1-6 の X053 (10503/20503/30503/40503/50503/60503) から集約し、`~/sift/_SIFT_CARRY_OVER.md` に書き戻したことを確認した
-- [ ] Claude が「特に意識して持ち越したい 3 件」を受講者に聞き、集約サマリーに反映したことを確認した
+- [ ] Claude が「特に意識して持ち越したいもの」を受講者に聞き (件数は問わない / 該当なしも genuine)、集約サマリーに反映したことを確認した
 - [ ] Claude が SIFT 完了メモ (開始日 / 完了日 / 最大の成果 / 最大の変化 / Workshop への期待 / 一言まとめ) を提示したことを確認した
 - [ ] Claude が Step 3 セクション (本ファイル) と `~/sift/_SIFT_CARRY_OVER.md` の 2 ファイルに書き戻したことを Obsidian で確認した
 
