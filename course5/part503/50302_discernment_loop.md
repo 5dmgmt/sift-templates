@@ -49,7 +49,7 @@ Claude を疑い続ける必要はありません。Claude との信頼ある対
 
 ## 背景
 私はSIFTの Course 5「AI Fluency — AIを扱う力」Part 503 Phase 50302 に取り組んでいます。
-Phase 50301 で出力レビューシート (4 分類) を作りました。今回は 1 つの業務課題に対して Description → Discernment → 改善を周回し、見極めの観点が増える過程と出力品質の向上を記録します (件数は問わない / 周数は genuine な改善が見えるまで)。Claude Code から実行されているので、Claude が周回ごとのプロンプト + 想定出力 + Discernment 評価を実演します。
+Phase 50301 で出力レビューシート (4 分類) を作りました。今回は業務課題に対して (件数は問わない / 複数可) Description → Discernment → 改善を周回し、見極めの観点が増える過程と出力品質の向上を記録します (件数は問わない / 周数は genuine な改善が見えるまで)。Claude Code から実行されているので、Claude が周回ごとのプロンプト + 想定出力 + Discernment 評価を実演します。
 
 このプロンプトは Claude Code から実行されています。Read / Edit ツールで vault のファイルを直接読み書きしてください。
 
@@ -92,7 +92,7 @@ Phase 50301 で出力レビューシート (4 分類) を作りました。今�
 
 ### Step 1: 初回周回 — Description + Discernment（順に進める）
 Claude が以下を実演（プロンプトは placeholder、出力は必要十分な要約 / 行数は問わない）:
-- 業務課題を 1 つ選び、プロンプトを placeholder ベースで設計
+- 業務課題を選び (件数は問わない / 複数可 / 保留可)、プロンプトを placeholder ベースで設計
 - 想定出力 (必要十分な要約 / 行数は問わない) を提示
 - 50301 のレビューシートで 4 分類サマリ
 - Discernment 3 観点 (Product / Process / Performance、各 1-5 点 + 具体的な所見)
