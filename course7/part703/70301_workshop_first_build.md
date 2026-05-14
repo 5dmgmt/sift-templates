@@ -168,7 +168,7 @@ Claude が以下を 1 ページにまとめて提示する:
 - [ ] 事前メモ（Step 1）を自分で書いた
 - [ ] Claude が 70103_sift_synthesis.md / 70201_soul_user.md / 70202_memory_workflow.md / 70203_diligence_quality.md の 4 ファイルを Read して参照したことを確認した
 - [ ] Claude が仮決定を再評価して確定し、要件 (ゴール / 対象者 / 成功条件 / 必要な文脈 / スキル / 期間) を具体化したことを確認し、納得した
-- [ ] Claude がリスクと対策を 3 件提示したことを確認した
+- [ ] Claude がリスクと対策を提示したことを確認した (件数は問わない / 該当なしも genuine)
 - [ ] Claude が Workshop Entry Brief 1 ページ + 70302 への持ち込み事項を提示したことを確認した
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
 
