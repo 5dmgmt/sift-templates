@@ -7,7 +7,7 @@
 
 ## やること
 
-AI Fluencyの4段階（使えない/使える/使いこなす/共に考える）で自己評価し、根拠となるエピソードを棚卸しする。Course 5 全体は **SIFT 三層モデルの第一層 (能力スキル / Anthropic 4D = Delegation / Description / Discernment / Diligence + SIFT オリジナル Design = 意図設計 = 5 能力)** を実技で立ち上げる場。Course 4 で体系化したアンラーン (= 第二層 4 不安 = Pattern 6) の結果として何が立ち上がるかを演習で体感する。Course 6 (= 第三層 entry / Pattern 9 = ハート起点意図設計 = 胸への意識 + 寝息の呼吸 / 本書 5-11) / Course 7 (= 三層統合 + 整える・作る・回す / 本書 7-9) で更に統合し、RUN（Layer 6 実践装置）へ接続する準備期間。Design (意図設計) は Course 5 で AI Fluency 能力として扱い、Course 6 で「意図のハート起点」を体感する 2 段構え。
+AI Fluencyの4段階（使えない/使える/使いこなす/共に考える）で自己評価し、根拠となるエピソードを棚卸しする。Course 5 全体は **SIFT 三層モデルの第一層 (能力スキル / Anthropic 4D = Delegation / Description / Discernment / Diligence + SIFT オリジナル Design = 意図設計 = 5 能力)** を実技で立ち上げる場。Course 4 で体系化したアンラーン (= 第二層 4 不安 = Pattern 6) の結果として何が立ち上がるかを演習で体感する。Course 6 (= 第三層 entry / Pattern 9 ハート起点メソッド / 詳細は Course 6 / 本書 5-11) / Course 7 (= 三層統合 + 整える・作る・回す / 本書 7-9) で更に統合し、RUN（Layer 6 実践装置）へ接続する準備期間。Design (意図設計) は Course 5 で AI Fluency 能力として扱い、Course 6 で「意図のハート起点」を体感する 2 段構え。
 
 ---
 
@@ -115,7 +115,7 @@ Claude が以下項目をまとめて提示する:
 - **ギャップ**: 現在地 → 目標に必要なこと (件数は問わない)
 - **三層モデル位置付け** (本書 7-9 / SIFT-LAYER-FRAMEWORK §3-§5 / Course 5 = 第一層 4D + Design = 5 能力の本格立ち上げ): Course 4 で言語化した第二層 4 不安 (Pattern 6 / 存在価値 / 無能露呈 / 承認喪失 / コントロール喪失) のうち、AI Fluency 学習を阻むものはあるか / Course 6 (Pattern 9 ハート起点) で深化する Design (意図設計) を Course 5 でどう立ち上げるか / 損徳得厄判断軸 (本書 7-5 / 7-6 / 「頭で得を追う」 vs 「ハートで愛を出す」 / 50103 以降で深掘りする観察対象として) を AI 活用の意思決定で使えるか (任意 / 該当なしも genuine)
 
-最後に「最も伸ばしたい領域 / 避けてきた AI 活用場面」を簡潔に Claude が提示し、受講者に修正案を 1 問だけ聞く。
+最後に「伸ばしたい領域候補 / 避けてきた AI 活用場面」を簡潔に Claude が提示し、受講者に修正案を 1 問だけ聞く。
 
 ### Step 4: 成果物を vault に書き戻す
 `~/sift/course5/part501/50101_ai_fluency_assessment.md` の Step 3「成果物」セクションを Edit で書き込む。
@@ -182,8 +182,8 @@ Claude が以下項目をまとめて提示する:
 ## 専門家確認 / 安全確保優先（人間最終責任 / sandbox or test data 限定 / Course 5 / Course 6 / Course 7 / RUN へ通常引き継ぎしない）
 （production Supabase 書き込み・RLS 緩和・service_role 使用・migrations 適用・顧客影響・課金・契約変更・法務判断・一斉メール・公開設定変更 / および労務・税務・医療・介護・安全上の責務 を含む内容があれば、ここに伏せ字で保持し、専門家・人間最終責任で対応。「AI を使いこなす / 共に考える」証拠 / 目標 / Course 5 で実践したい領域として処理しない。安全な実技対象は read-only / sandbox / test data / dummy account / 個人タスクに限定）
 
-## 次のPhaseへのメモ
-- 最も伸ばしたい領域:
+## 次のPhaseへのメモ (件数は問わない / 複数可 / 該当なしも genuine)
+- 伸ばしたい領域候補:
 - 避けてきたAI活用場面:
 
 
