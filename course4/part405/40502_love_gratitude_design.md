@@ -55,7 +55,7 @@ Phase 40303 で動機パターンを分析、Phase 40501 でアンラーンの�
 
 このプロンプトは Claude Code から実行されています。Read / Edit ツールで vault のファイルを直接読み書きしてください。
 
-## 三層モデル上の位置付け (Phase 40502 = Course 5 (4D + Design / 損徳得厄深掘り) への動機整理 / 詳細は `SIFT-LAYER-FRAMEWORK-RUNBOOK.md` §4 + §6)
+## 三層モデル上の位置付け (Phase 40502 = Course 5 (4D + Design / 損徳得厄深掘り) への動機整理 / 詳細は `SIFT-LAYER-FRAMEWORK-RUNBOOK.md` §3 + §4 + §7 + §8)
 
 このワークは SIFT 三層モデルの **第二層 4 不安 + 損徳得厄入口の動機整理を、Course 5 へ渡す準備地点**:
 
