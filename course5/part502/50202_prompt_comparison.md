@@ -236,7 +236,7 @@ Claude が以下を提示する:
 - [ ] Claude が 3 段階 (Level 1 曖昧 / Level 2 構造化 / Level 3 文脈付き) のプロンプトを順に設計したことを確認した
 - [ ] Claude が 3 段階の想定出力 + 4 観点 (正確さ / 具体性 / 実用性 / 効率) で評価したことを確認し、納得した
 - [ ] Claude が比較サマリ + Level 間の差分 + プロンプトの癖 + 今後使いたいプロンプトパターン + failure_log + 損徳得厄メモ を提示したことを確認した (件数は問わない / 該当なしも genuine)
-- [ ] PII / secret / 顧客名 / 個人名 / 業務手順 / プロンプト本文 / API key / SUPABASE_SERVICE_ROLE_KEY / sb_secret_ / Authorization が成果物に含まれていない (= プロンプト例も placeholder / 出力例は要約のみ) ことを確認した
+- [ ] PII / secret / 顧客名 / 個人名 / 業務手順 / プロンプト本文 / API key / SUPABASE_SERVICE_ROLE_KEY / sb_secret_ / sb_publishable_ / service_role / Bearer / apikey / Authorization が成果物に含まれていない (= プロンプト例も placeholder / 出力例は要約のみ) ことを確認した
 - [ ] production Supabase / RLS 緩和 / service_role / 顧客影響 / 課金 / 契約変更 / 法令上の責務 が「Level 1/2/3 実験対象」に正規化されず、専門家確認/安全確保優先欄に分離されていることを確認した
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
 

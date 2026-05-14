@@ -180,7 +180,7 @@ Claude が 50103 の業務リストから残りを選び、4 項目をまとめ�
 - [ ] Claude が優先業務を順に深掘りし、4 項目 (任せる範囲 / 確認点 / 止める条件 / 成功の定義) を提示したことを確認した (件数は問わない)
 - [ ] **Claude との対話で** 残りの業務が展開され、委任マトリクス全体が完成したことを確認し、納得した (件数は問わない / = 自分で書き出すのではなく、対話で広げた結果)
 - [ ] Claude が各件に優先度 (A/B/C) を付け、止める条件が書けない業務を提示したことを確認した
-- [ ] PII / secret / 顧客名 / 個人名 / 業務手順 / プロンプト本文 / API key / SUPABASE_SERVICE_ROLE_KEY / sb_secret_ / Authorization が成果物に含まれていない (= 抽象化済み業務名のみ) ことを確認した
+- [ ] PII / secret / 顧客名 / 個人名 / 業務手順 / プロンプト本文 / API key / SUPABASE_SERVICE_ROLE_KEY / sb_secret_ / sb_publishable_ / service_role / Bearer / apikey / Authorization が成果物に含まれていない (= 抽象化済み業務名のみ) ことを確認した
 - [ ] production Supabase / RLS 緩和 / service_role / 顧客影響 / 課金 / 契約変更 / 法令上の責務 が「A/B/C 優先度」に正規化されず、専門家確認/安全確保優先欄に分離されていることを確認した
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
 
