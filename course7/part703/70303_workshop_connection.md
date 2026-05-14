@@ -227,7 +227,7 @@ Claude が以下を提示する:
 - [ ] Claude が 70201_soul_user.md / 70202_memory_workflow.md / 70203_diligence_quality.md / 70301_workshop_first_build.md / 70302_handoff_checklist.md の 5 ファイルを Read して参照したことを確認した
 - [ ] Claude が 5 層ファイル (SOUL/USER/MEMORY/WORKFLOW/DILIGENCE) を 1 ターン 1 ファイルで Workshop 00103 形式に合わせて最終調整したことを確認し、納得した
 - [ ] Claude が修正が必要な箇所を修正した (修正箇所 件数は問わない / 該当なしも genuine) ことを確認した
-- [ ] Claude が三層モデル + 損徳得厄判定軸の引き継ぎ確認 (第一層 4D + Design = SOUL/USER / 第二層 Pattern 6 4 不安 = MEMORY / 第三層 Pattern 9 ハート起点 + 損徳得厄判断軸 = SOUL 意思決定軸 + DILIGENCE 停止条件) を提示し、5 層ファイルとの対応を確認したことを確認した
+- [ ] Claude が三層モデル + 損徳得厄判定軸の引き継ぎ確認 (第一層 4D 能力 = SOUL/USER / 第二層 Pattern 6 4 不安 = MEMORY / 第三層 Design + Pattern 9 ハート起点 + 損徳得厄判断軸 = SOUL 意思決定軸 + DILIGENCE 停止条件) を提示し、5 層ファイルとの対応を確認したことを確認した
 - [ ] 受講者が workshop.aifcc.jp にログインし、ログイン / プロフィール / SIFT 完了状態の 3 項目を確認して結果を Claude Code に戻した
 - [ ] Claude が SIFT 全体の積み残しを Course 1-6 の X053 (10503/20503/30503/40503/50503/60503) から集約し、`~/sift/_SIFT_CARRY_OVER.md` に書き戻したことを確認した
 - [ ] Claude が「特に意識して持ち越したいもの」を受講者に聞き (件数は問わない / 該当なしも genuine)、集約サマリーに反映したことを確認した
