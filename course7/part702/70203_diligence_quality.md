@@ -15,7 +15,7 @@ DILIGENCE.md（AI運用ルール、停止条件）を作成し、5層ファイ�
 
 Claudeに渡す前に、まず自分で以下を書いてください（10分）:
 
-1. AIに「やらせてはいけないこと」を3つ挙げると？
+1. AIに「やらせてはいけないこと」を挙げると？(件数は問わない / 該当なしも genuine)
 2. 「AIの出力がおかしい」と気づくサインは？
 3. Course 5で学んだガードレールや停止条件を覚えている？
 4. 5層ファイル（SOUL/USER/MEMORY/WORKFLOW/DILIGENCE）を一言ずつで説明すると？
@@ -89,8 +89,8 @@ Claude が SOUL / USER / MEMORY / WORKFLOW / DILIGENCE の 5 ファイルを以�
 ### Step 3: 品質スコア + Part 703 への持ち込み
 Claude が以下を提示する:
 - **品質スコア表**: 5 ファイル × 4 観点 (各 1-5 点)
-- **Phase 70301 までに修正すべき箇所**: 1〜3 件
-- **Part 703 で最終調整すべき点**: 2〜3 件
+- **Phase 70301 までに修正すべき箇所** (件数は問わない / 該当なしも genuine)
+- **Part 703 で最終調整すべき点** (件数は問わない / 該当なしも genuine)
 
 最後に受講者に修正案を 1 問だけ聞く。
 
@@ -187,7 +187,7 @@ Claude が以下を提示する:
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた
-- [ ] Claude が 50401_ai_diligence_policy.md / 50403_stop_rollback_escalation.md / 60501_final_system.md / 70201_soul_user.md / 70202_memory_workflow.md の 5 ファイルを Read して参照したことを確認した
+- [ ] Claude が 50401_ai_diligence_policy.md / 50402_guardrail_design.md / 50403_stop_rollback_escalation.md / 60501_final_system.md / 70201_soul_user.md / 70202_memory_workflow.md の 6 ファイルを Read して参照したことを確認した
 - [ ] Claude が DILIGENCE.md (禁止事項 / 停止条件 / ガードレール / 品質チェックリスト / エスカレーション) を Markdown 完成形で作成したことを確認し、納得した
 - [ ] Claude が 5 層ファイル品質チェック (整合性 / 網羅性 / 実用性 / 読みやすさ) を 1 ターン 1 観点で実施したことを確認した
 - [ ] Claude が品質スコア + 70301 までに修正すべき箇所 + Part 703 への持ち込み事項を提示したことを確認した
