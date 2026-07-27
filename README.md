@@ -3,13 +3,39 @@
 AI導入前の仕分けプログラム「SIFT」の成果物テンプレート集。
 75 Phase 分のワークシートが入っています。
 
+## 書いたものの置き場所について
+
+ここにあるのは、まだ何も書かれていない状態のワークシートです。
+あなたが書き込んだ内容は**あなたの手元だけ**にあり、SIFT のサイトにも
+このリポジトリにも送られません。
+
+そのまま手元で育てていただけるよう、下のセットアップは
+**git の履歴を持たない形**でお渡ししています。うっかり公開の場所へ
+上がってしまう道筋を、はじめから作らないためです。
+
+バックアップを取りたくなったときは、iCloud Drive や Obsidian Sync など、
+ご自身だけが見える場所をお選びいただくと安心です。
+AI に「GitHub に保存して」と頼むこともできますが、その保存先が
+公開・非公開のどちらになるかを一度ご確認いただけますでしょうか。
+`context/` の5層文脈ファイルには、とくに深い内容が入ります。
+
 ## セットアップ
 
 ### PC（Mac / Windows）
 
+**方法 A: ターミナルで取得**
+
 ```bash
-git clone https://github.com/5dmgmt/sift-templates.git ~/sift
+cd ~ && curl -L https://github.com/5dmgmt/sift-templates/archive/refs/heads/main.tar.gz | tar xz && mv sift-templates-main sift
 ```
+
+**方法 B: ブラウザで ZIP を取得**
+
+1. [github.com/5dmgmt/sift-templates](https://github.com/5dmgmt/sift-templates) を開く
+2. 緑の「Code」ボタン → 「Download ZIP」
+3. 解凍してフォルダ名を `sift` に変更し、ホームフォルダ（`~/`）に置く
+
+どちらの方法でも、手元に残るのはファイルだけです。
 
 Obsidian を開く → 「フォルダをVaultとして開く」→ `~/sift` を選択
 
