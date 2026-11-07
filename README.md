@@ -1,87 +1,69 @@
 # SIFT Templates
 
-AI導入前の仕分けプログラム「SIFT」の成果物テンプレート集。
-75 Phase 分のワークシートが入っています。
+AI 導入前の仕分けプログラム「SIFT」のワークシート集です。7 コース・33 Part・99 Phase の、書き込み前のワークシートが入っています。このフォルダを Mac の `~/sift` に置き、Obsidian の保管庫（vault）として開いて使います。
+
+> 依頼文（Step 2）の正本は SIFT のアプリ（https://sift.aifcc.jp）の Phase 画面です。ここの写しとアプリが違うときは、アプリの方を使います。
+
+## 使い方（Claude Code と進めます）
+
+1. SIFT のサイトの「事前準備」を終えます（Claude のアカウント・Obsidian・Claude Code・Claude in Chrome・1Password など）。
+2. ターミナルで cd ~/sift && claude と入力して起動します。Phase ごとに /clear で会話を新しくします。
+3. SIFT のサイトで Phase を選び、「Obsidianで開く」でワークシートを開きます。
+4. **Step 1**: まず自分の言葉で書きます（Claude に投げる前に）。前の Phase の成果物を見返したいときは、Phase 画面に出る「前の Phase の成果物の場所」から開きます。
+5. **Step 2**: Phase 画面のプロンプトを Claude Code に貼り付けます。Claude Code が Step 1 を読み、対話しながら成果物を Step 3 に書き込みます。
+6. **Step 3**: 書かれた成果物の中身を確かめます。最後に、サイトの Phase 画面の完了チェックを押します。
+
+ワークシートの Step 2 とチェックリストは、アプリの Phase 画面の写しです。違いがあるときは、アプリの方を使います。
 
 ## 書いたものの置き場所について
 
-ここにあるのは、まだ何も書かれていない状態のワークシートです。
-あなたが書き込んだ内容は**あなたの手元だけ**にあり、SIFT のサイトにも
-このリポジトリにも送られません。
+ここにあるのは、まだ何も書かれていない状態のワークシートです。あなたが書いたファイルは Mac の `~/sift` にあり、SIFT のサイトにも GitHub にも送られません（サイトに保存されるのは進捗のチェックだけです）。ただし Claude との会話は、処理のために Anthropic に送られ、会話の記録は Mac の `~/.claude/projects` にも残ります。そのため、事前準備で「モデルの改善に協力（Help improve our AI models）」をオフにし、実名と顧客の名前は仮名で書きます。
 
-そのまま手元で育てていただけるよう、下のセットアップは
-**git の履歴を持たない形**でお渡ししています。うっかり公開の場所へ
-上がってしまう道筋を、はじめから作らないためです。
-
-バックアップを取りたくなったときは、iCloud Drive や Obsidian Sync など、
-ご自身だけが見える場所をお選びいただくと安心です。
-AI に「GitHub に保存して」と頼むこともできますが、その保存先が
-公開・非公開のどちらになるかを一度ご確認いただけますでしょうか。
-`context/` の5層文脈ファイルには、とくに深い内容が入ります。
-
-## セットアップ
-
-### PC（Mac / Windows）
-
-**方法 A: ターミナルで取得**
-
-```bash
-cd ~ && curl -L https://github.com/5dmgmt/sift-templates/archive/refs/heads/main.tar.gz | tar xz && mv sift-templates-main sift
-```
-
-**方法 B: ブラウザで ZIP を取得**
-
-1. [github.com/5dmgmt/sift-templates](https://github.com/5dmgmt/sift-templates) を開く
-2. 緑の「Code」ボタン → 「Download ZIP」
-3. 解凍してフォルダ名を `sift` に変更し、ホームフォルダ（`~/`）に置く
-
-どちらの方法でも、手元に残るのはファイルだけです。
-
-Obsidian を開く → 「フォルダをVaultとして開く」→ `~/sift` を選択
-
-### スマホ（iPhone / Android）
-
-1. Obsidian モバイルアプリをインストール
-2. iCloud Drive または Obsidian Sync で PC と同期
-3. 同じ vault (`sift`) が開く
-
-## 使い方
-
-1. **SIFT の UI** (sift.aifcc.jp/sift) で Phase を選ぶ
-2. 「Obsidianで開く」をタップ → 該当ファイルが自動で開く
-3. **Step 1**: まず自分で書く（10分）
-4. **Step 2**: プロンプトを Claude に貼り付ける
-5. **Step 3**: Claude の出力を成果物セクションに貼り付け、自分で編集
-6. チェックリストを確認して保存
+バックアップを取りたくなったときは、iCloud Drive や Obsidian Sync など、ご自身だけが見える場所をお選びください。Claude に「GitHub に保存して」と頼むこともできますが、その保存先が公開か非公開かを、先に確かめます。
 
 ## フォルダ構成
 
 ```
 sift/
+├── README.md         # このファイル
 ├── course1/          # 人生の棚卸し（Part 101-105）
 ├── course2/          # 手放しの設計（Part 201-205）
 ├── course3/          # 目的の言語化（Part 301-305）
-├── course4/          # アンラーン — 調和と創発へ（Part 401-405）
+├── course4/          # アンラーン（Part 401-405）
 ├── course5/          # AI Fluency — AIを扱う力（Part 501-505）
 ├── course6/          # AIと共に整える（Part 601-605）
 ├── course7/          # Workshopへの接続（Part 701-703）
-└── context/          # 5層文脈ファイル（SIFT完了時に埋める）
+└── context/          # 5層文脈ファイル（Course 7 で Claude Code が書き出します）
 ```
 
-C1-C6: 各5 Part × 3 Phase、C7: 3 Part × 3 Phase = 合計 99 ファイル
+Course 1〜6 は各 5 Part × 3 Phase = 15 ファイル、Course 7 は 3 Part × 3 Phase = 9 ファイルで、合わせて 99 ファイルです。
 
-## 積み残しの扱い（設計思想）
+### Course 6 の Phase 60202 で作られるもの
 
-SIFT は自己を深掘りする内省ツール。各 Course のワーク中は**積み残しタスク管理を意識せず、内省に集中**してください。
+Phase 60202 では、成果物を移しません。`00_INDEX.md` と 5 つのフォルダ（`01_自己理解`・`02_事業`・`03_業務手順`・`04_AI運用`・`05_振り返り`）を作り、それぞれの README から、元の場所（`courseN/partNNN/`）の成果物へリンクを張ります。成果物は元の場所にあるままです。Course 6 以降に新しく作るもの（業務の手順など）は、この 5 つのフォルダに置きます。
 
-- 各 Course の最終 Phase（10503 / 20503 / 30503 / 40503 / 50503 / 60503）で「次の Course への持ち越し」が自然に積まれていきます
-- SIFT 全 Course を完遂した最後に、**Course 7 の最終 Phase 70303** で全 Course の持ち越しを `~/sift/_SIFT_CARRY_OVER.md` として集約し、Workshop / RUN / CPN への接続素材として「そっと渡す」設計です
-- 各 Phase のワーク中に未完了タスクのリンクや一覧を見ると、内省モード（ハート優位）から TODO 管理モード（頭優位）に引き戻されてしまうため、各 Phase テンプレートは意図的にそうした参照を含めません
+`_private/` は、実名と仮名の対応表だけを置く場所です。事前準備の deny の設定で、Claude Code は `_private/` を読み書きできません。伏せ字が必要なファイルは、あなたがその場で直します。
 
-期限のある実行項目（締め切り / 連絡 / 決済 等）が発生した場合は、SIFT vault の外（カレンダー / タスク管理ツール）で別管理してください。
+## context/ の 5 つのファイル
+
+`context/` には、5 つのファイル（SOUL.md・USER.md・MEMORY.md・WORKFLOW.md・DILIGENCE.md）の雛形が入っています。取得した直後は中身が空です。Course 7 で、Claude Code が `~/sift/context/` に書き出します。
+
+| Phase | 書き出されるファイル |
+|-------|----------------------|
+| 70201 | SOUL.md・USER.md |
+| 70202 | MEMORY.md・WORKFLOW.md |
+| 70203 | DILIGENCE.md |
+| 70303 | 5 本の最終調整 |
+
+Workshop に進むときは、この 5 本を `~/context/` にコピーして使います（Workshop の Phase 00103）。
+
+## ワークシートを新しい版にする
+
+すでに `~/sift` がある人は、SIFT のサイトの「事前準備」の Step 3 にある「既に ~/sift がある人は」の依頼文を、Claude Code に貼り付けます。あなたが書いた中身には触れず、Step 2 とチェックリストの節だけが新しくなります。
 
 ## リンク
 
 - SIFT: https://sift.aifcc.jp
 - Workshop: https://workshop.aifcc.jp
+- RUN: https://run.aifcc.jp
 - AIFCC: https://aifcc.jp
