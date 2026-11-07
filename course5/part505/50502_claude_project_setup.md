@@ -299,10 +299,10 @@ Claude in Chrome で Project の会話にテストプロンプトを入れ、返
 ## チェックリスト
 
 - [ ] 事前メモ（Step 1）を自分で書いた（カテゴリ・状況の抽象化のみ / 実値なし）
-- [ ] Claude が 50401 / 50403 / 50501 の 3 ファイルを Read して acceptance ベース完了判定（件数は問わない / 各 Phase の必須項目）を確認したことを確認した
-- [ ] Claude が Glob で Course 1-5 の成果物を allowlist (\`~/sift/course{1,2,3,4,5}/part*/[0-9]*.md\`) で取得し、denylist (\`.archive/\` / 設定ファイル / 秘密の鍵を含む / 顧客固有 SOP / 実インシデントログ / アクセスの制限やデータベースの変更の生コード) を除外したことを確認した
+- [ ] Claude が 50401 / 50403 / 50501 の 3 ファイルを Read して acceptance ベース完了判定（件数は問わない / 各 Phase の必須項目）を適用したことを確認した
+- [ ] Claude が Glob で Course 1-5 の成果物を allowlist (\`~/sift/course{1,2,3,4,5}/part*/[0-9]*.md\`) で取得し、denylist (\`.archive/\` / 設定ファイル / 秘密の鍵を含む / 顧客固有 SOP / 実インシデントログ / アクセスの制限やデータベースの変更の生コード) を除外していることを確認した
 - [ ] Claude がプロジェクト名 + 目的 + 文脈ファイル (redaction 確認済) + 入れなかったファイル (理由付き) を選定した (件数は問わない) ことを確認し、納得した
-- [ ] redacted context pack が作成され、raw ファイルではなく pack を claude.ai にアップロードしたことを確認した（アップロード前に目視確認した）
+- [ ] redacted context pack が作成され、raw ファイルではなく pack だけが claude.ai にアップロードされていることを確認した（アップロード前に目視確認した）
 - [ ] Claude が Project Instructions (本番操作 / Agency / 法務 / 危機兆候の停止条件 + 機密データ取扱 + 人間最終責任 + redact 要請応答) + 構築手順をガイドしたことを確認した
 - [ ] Claude が業務相談テストのプロンプト（抽象化済）+ 評価観点を順に設計した (件数は問わない) ことを確認した
 - [ ] Claude が Claude in Chrome で claude.ai の Project を構築しテストを実行した結果（出力品質 / 文脈活用 / 安全分離が機能したか / 改善点）を提示した (件数は問わない) ことを確認した

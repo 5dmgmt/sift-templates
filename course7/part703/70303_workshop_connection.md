@@ -302,7 +302,7 @@ Claude が以下を提示する:
 - [ ] Claude が 70201_soul_user.md / 70202_memory_workflow.md / 70203_diligence_quality.md / 70301_workshop_first_build.md / 70302_handoff_checklist.md の 5 ファイルを Read して参照したことを確認した
 - [ ] Claude が 5 層ファイル (SOUL/USER/MEMORY/WORKFLOW/DILIGENCE) を 1 ターン 1 ファイルで Workshop 00103 形式に合わせて最終調整したことを確認し、納得した
 - [ ] Claude が修正が必要な箇所を修正した (修正箇所 件数は問わない / 該当なしも本人の今の実感として扱う) ことを確認した
-- [ ] Claude が三層モデル + 損徳得厄判定軸の引き継ぎ確認表 (第一層 4D 能力 / 第二層 4 不安 / 第三層 Design + ハート起点 + 損徳得厄判断軸) を提示し、5 層ファイルとの対応を確認した
+- [ ] Claude が三層モデル + 損徳得厄判定軸の引き継ぎ確認表 (第一層 4D 能力 / 第二層 4 不安 / 第三層 Design + ハート起点 + 損徳得厄判断軸) を提示したことと、5 層ファイルとの対応を確認した
 - [ ] Claude が Claude in Chrome で workshop.aifcc.jp を開き、ログイン済みであること / プロフィール (表示名とメールアドレス) / SIFT 完了状態 (70303 以外が完了と出ているか) の 3 項目を読んで確かめた結果 (OK / NG) を提示したことを確認した
 - [ ] Claude が SIFT 完了メモ (開始日 / 完了日 / 最大の成果 / 最大の変化 / Workshop への期待 / 一言まとめ) を提示したことを確認した
 - [ ] Claude が Step 3 セクションに書き戻したことを Obsidian で確認した
